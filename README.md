@@ -2,3 +2,4 @@
 
 - day 1 - `deno run --allow-read src/day1/main.ts`
 - day 2 - `deno run --allow-read src/day2/main.ts`
+- day 3 - `deno run --allow-read src/day3/main.ts`
