@@ -1,8 +1,5 @@
 
-/**
- * day1.ts
- * deno run --allow-read main.ts
- */
+// day1 advent of code
 import { sum } from "https://deno.land/x/sum/mod.ts";
 
 const __dirname = new URL('.', import.meta.url).pathname;
