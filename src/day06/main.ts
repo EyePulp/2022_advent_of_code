@@ -1,4 +1,4 @@
-// day5 advent of code
+// day6 advent of code
 const __dirname = new URL(".", import.meta.url).pathname;
 
 const text = await Deno.readTextFile(__dirname + "data.txt");
